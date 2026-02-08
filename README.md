@@ -10,10 +10,6 @@ EEG-based BCI system for motor imagery classification using deep learning (EEGNe
 - Visualization: Training history, CSP patterns, ERD/ERS, confusion matrices
 - Dataset: PhysioNet Motor Movement/Imagery Database (49 subjects)
 
-## Requirements
-- Python >= 3.8
-- Packages: numpy, pandas, matplotlib, seaborn, mne, sklearn, tensorflow
-
 ## Usage
 1. Clone repository
 2. Install dependencies: `pip install -r requirements.txt`
