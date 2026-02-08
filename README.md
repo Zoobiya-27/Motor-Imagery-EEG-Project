@@ -17,4 +17,4 @@ EEG-based BCI system for motor imagery classification using deep learning (EEGNe
 ## Usage
 1. Clone repository
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run script: `python motor_imagery_eeg.py`
+3. Run script: `motor_imagery_project.ipynb'
